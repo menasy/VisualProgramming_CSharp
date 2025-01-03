@@ -1,0 +1,10 @@
+C:\Users\IGU-OGRENCI\Desktop\Menasy\MehmetNasimYilmazH7S2\H7Exam2\H7Exam2\bin\Debug\H7Exam2.exe.config
+C:\Users\IGU-OGRENCI\Desktop\Menasy\MehmetNasimYilmazH7S2\H7Exam2\H7Exam2\bin\Debug\H7Exam2.exe
+C:\Users\IGU-OGRENCI\Desktop\Menasy\MehmetNasimYilmazH7S2\H7Exam2\H7Exam2\bin\Debug\H7Exam2.pdb
+C:\Users\IGU-OGRENCI\Desktop\Menasy\MehmetNasimYilmazH7S2\H7Exam2\H7Exam2\obj\Debug\H7Exam2.csproj.AssemblyReference.cache
+C:\Users\IGU-OGRENCI\Desktop\Menasy\MehmetNasimYilmazH7S2\H7Exam2\H7Exam2\obj\Debug\H7Exam2.Form1.resources
+C:\Users\IGU-OGRENCI\Desktop\Menasy\MehmetNasimYilmazH7S2\H7Exam2\H7Exam2\obj\Debug\H7Exam2.Properties.Resources.resources
+C:\Users\IGU-OGRENCI\Desktop\Menasy\MehmetNasimYilmazH7S2\H7Exam2\H7Exam2\obj\Debug\H7Exam2.csproj.GenerateResource.cache
+C:\Users\IGU-OGRENCI\Desktop\Menasy\MehmetNasimYilmazH7S2\H7Exam2\H7Exam2\obj\Debug\H7Exam2.csproj.CoreCompileInputs.cache
+C:\Users\IGU-OGRENCI\Desktop\Menasy\MehmetNasimYilmazH7S2\H7Exam2\H7Exam2\obj\Debug\H7Exam2.exe
+C:\Users\IGU-OGRENCI\Desktop\Menasy\MehmetNasimYilmazH7S2\H7Exam2\H7Exam2\obj\Debug\H7Exam2.pdb
