@@ -1,0 +1,10 @@
+C:\Users\IGU-OGRENCI\Desktop\menasy\H3project1\H3project1\bin\Debug\H3project1.exe.config
+C:\Users\IGU-OGRENCI\Desktop\menasy\H3project1\H3project1\bin\Debug\H3project1.exe
+C:\Users\IGU-OGRENCI\Desktop\menasy\H3project1\H3project1\bin\Debug\H3project1.pdb
+C:\Users\IGU-OGRENCI\Desktop\menasy\H3project1\H3project1\obj\Debug\H3project1.csproj.AssemblyReference.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\H3project1\H3project1\obj\Debug\H3project1.Form1.resources
+C:\Users\IGU-OGRENCI\Desktop\menasy\H3project1\H3project1\obj\Debug\H3project1.Properties.Resources.resources
+C:\Users\IGU-OGRENCI\Desktop\menasy\H3project1\H3project1\obj\Debug\H3project1.csproj.GenerateResource.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\H3project1\H3project1\obj\Debug\H3project1.csproj.CoreCompileInputs.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\H3project1\H3project1\obj\Debug\H3project1.exe
+C:\Users\IGU-OGRENCI\Desktop\menasy\H3project1\H3project1\obj\Debug\H3project1.pdb

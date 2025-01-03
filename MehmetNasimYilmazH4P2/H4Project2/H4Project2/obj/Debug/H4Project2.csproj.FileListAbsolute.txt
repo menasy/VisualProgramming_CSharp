@@ -1,0 +1,10 @@
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH4P2\H4Project2\H4Project2\bin\Debug\H4Project2.exe.config
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH4P2\H4Project2\H4Project2\bin\Debug\H4Project2.exe
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH4P2\H4Project2\H4Project2\bin\Debug\H4Project2.pdb
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH4P2\H4Project2\H4Project2\obj\Debug\H4Project2.csproj.AssemblyReference.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH4P2\H4Project2\H4Project2\obj\Debug\H4Project2.Form1.resources
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH4P2\H4Project2\H4Project2\obj\Debug\H4Project2.Properties.Resources.resources
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH4P2\H4Project2\H4Project2\obj\Debug\H4Project2.csproj.GenerateResource.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH4P2\H4Project2\H4Project2\obj\Debug\H4Project2.csproj.CoreCompileInputs.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH4P2\H4Project2\H4Project2\obj\Debug\H4Project2.exe
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH4P2\H4Project2\H4Project2\obj\Debug\H4Project2.pdb
