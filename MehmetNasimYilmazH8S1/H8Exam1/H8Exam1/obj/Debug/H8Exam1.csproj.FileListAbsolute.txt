@@ -1,0 +1,10 @@
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH8S1\H8Exam1\H8Exam1\bin\Debug\H8Exam1.exe.config
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH8S1\H8Exam1\H8Exam1\bin\Debug\H8Exam1.exe
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH8S1\H8Exam1\H8Exam1\bin\Debug\H8Exam1.pdb
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH8S1\H8Exam1\H8Exam1\obj\Debug\H8Exam1.csproj.AssemblyReference.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH8S1\H8Exam1\H8Exam1\obj\Debug\H8Exam1.Form1.resources
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH8S1\H8Exam1\H8Exam1\obj\Debug\H8Exam1.Properties.Resources.resources
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH8S1\H8Exam1\H8Exam1\obj\Debug\H8Exam1.csproj.GenerateResource.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH8S1\H8Exam1\H8Exam1\obj\Debug\H8Exam1.csproj.CoreCompileInputs.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH8S1\H8Exam1\H8Exam1\obj\Debug\H8Exam1.exe
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH8S1\H8Exam1\H8Exam1\obj\Debug\H8Exam1.pdb
