@@ -1,0 +1,10 @@
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH2P3\h2Project3\h2Project3\bin\Debug\h2Project3.exe.config
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH2P3\h2Project3\h2Project3\bin\Debug\h2Project3.exe
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH2P3\h2Project3\h2Project3\bin\Debug\h2Project3.pdb
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH2P3\h2Project3\h2Project3\obj\Debug\h2Project3.csproj.AssemblyReference.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH2P3\h2Project3\h2Project3\obj\Debug\h2Project3.Form1.resources
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH2P3\h2Project3\h2Project3\obj\Debug\h2Project3.Properties.Resources.resources
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH2P3\h2Project3\h2Project3\obj\Debug\h2Project3.csproj.GenerateResource.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH2P3\h2Project3\h2Project3\obj\Debug\h2Project3.csproj.CoreCompileInputs.cache
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH2P3\h2Project3\h2Project3\obj\Debug\h2Project3.exe
+C:\Users\IGU-OGRENCI\Desktop\menasy\MehmetNasimYilmazH2P3\h2Project3\h2Project3\obj\Debug\h2Project3.pdb
